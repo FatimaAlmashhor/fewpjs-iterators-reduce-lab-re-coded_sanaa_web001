@@ -7,3 +7,4 @@ function batteries (){
 
   console.log(totalBatteries);
 }
+batteries();
